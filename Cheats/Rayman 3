@@ -1,0 +1,4 @@
+flying fatigue always on
+
+patch=1,EE,011C77F3,word,00000001
+patch=1,EE,011C77FB,word,0FFFFFFF
