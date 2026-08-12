@@ -1,0 +1,7 @@
+SLUS-20836
+
+No limits on new game character select
+--right
+patch=1,EE,003E5D88,word,2862000F
+--left
+patch=1,EE,003E5F98,word,2402000F
